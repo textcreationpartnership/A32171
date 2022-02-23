@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace &amp; commerce between the most serene and mighty prince, Charles II ... and the ... Lords Halil Bashaw, Ibraim Dey, Aga, Divan, and governours of the noble city and kingdom of Tripoli in Barbary concluded by Sir John Narbrough ... on the fifth day of March, old stile, 1675/6.</title>
+            <title>Treaties, etc. Tripoli, 1675 March 5</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32171</idno>
+            <idno type="STC">Wing C2901</idno>
+            <idno type="STC">ESTC R23985</idno>
+            <idno type="EEBO-CITATION">07937370</idno>
+            <idno type="OCLC">ocm 07937370</idno>
+            <idno type="VID">40550</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40550)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1201:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace &amp; commerce between the most serene and mighty prince, Charles II ... and the ... Lords Halil Bashaw, Ibraim Dey, Aga, Divan, and governours of the noble city and kingdom of Tripoli in Barbary concluded by Sir John Narbrough ... on the fifth day of March, old stile, 1675/6.</title>
+                  <title>Treaties, etc. Tripoli, 1675 March 5</title>
+                  <author>England and Wales.</author>
+                  <author>Narbrough, John, Sir, 1640-1688.</author>
+                  <author>Tripoli (Libya). Treaties, etc. England and Wales, 1675 March 5.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Libya --  Tripoli.</term>
+               <term>Tripoli (Libya) --  Foreign relations --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:40550:1" rendition="simple:additions"/>
+ARTICLES OF PEACE &amp; COMMERCE Between the moſt Serene and Mighty PRINCE CHARLES II.</p>
+            <p>By the Grace of God, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>AND The moſt Illuſtrious LORDS, <hi>Halil</hi> Baſhaw, <hi>Ibraim</hi> Dey, Aga, Divan, and Governours of the Noble City and Kingdom of <hi>TRIPOLI</hi> in <hi>BARBARY;</hi>
+            </p>
+            <p>Concluded by Sir <hi>John Narbrough</hi> Knight, Admiral of His Majeſties Fleet in the <hi>Mediterranean</hi> Seas, On the Fifth day of <hi>March,</hi> Old Stile, 1675/6.</p>
+            <p>
+               <hi>Publiſhed by his Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings Moſt Excellent Majeſty, 1676.</p>
+            <pb facs="tcp:40550:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb n="3" facs="tcp:40550:2" rendition="simple:additions"/>
+            <head>ARTICLES OF PEACE &amp; COMMERCE Between the moſt Serene and Mighty PRINCE, CHARLES II. By the Grace of God, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Chriſtian Faith, <hi>&amp;c.</hi> The moſt Illuſtrious Lords, <hi>Halil</hi> Baſhaw, <hi>Ibraim</hi> Dey, Aga, Divan and Governours of the Noble City and Kingdom of <hi>Tripoli</hi> in <hi>Barbary;</hi> Concluded by Sir <hi>John Narbrough</hi> Knight, Admiral of His Majeſties Fleet in the <hi>Mediterranean</hi> Seas.</head>
+            <p n="1">I. <seg rend="decorInit">I</seg>N the firſt place it is Agreed and Concluded, That from this day, and for ever forward, there be a true, firm and invi<g ref="char:EOLhyphen"/>olable Peace between the moſt Serene King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the
+<pb n="4" facs="tcp:40550:3"/>
+Chriſtian Faith, &amp;c. and the moſt Illuſtrious Lords, the Baſhaw, Dey, Aga, Divan and Governours of the City and Kingdom of <hi>Tri<g ref="char:EOLhyphen"/>poli</hi> in <hi>Barbary,</hi> and between all the Domi<g ref="char:EOLhyphen"/>nions and Subjects of either ſide, and that the Ships or other Veſſels, and the Subjects and People of both ſides, ſhall not henceforth do to each other any harm, offence or inju<g ref="char:EOLhyphen"/>ry, either in word or deed, but ſhall treat one another with all poſſible reſpect and friendſhip.</p>
+            <p n="2">II. That any of the Ships or other Veſſels be<g ref="char:EOLhyphen"/>longing to the ſaid King of <hi>Great Britain,</hi> or to any of His Majeſties Subjects, may ſafe<g ref="char:EOLhyphen"/>ly come to the Port of <hi>Tripoli,</hi> or to any other Port or place of that Kingdom, or Dominions thereunto belonging, freely to buy and ſell, without the leaſt diſturbance, paying the uſual Cuſtoms as in former times hath been paid for ſuch goods as they ſell, and for the goods they ſell not, they ſhall have free liberty to carry on board their
+<pb n="5" facs="tcp:40550:3" rendition="simple:additions"/>
+own Ships, without paying any duties for the ſame, and when they pleaſe they ſhall freely depart from thence, without any ſtop, hindrance, or moleſtation whatſoever.</p>
+            <p n="3">III. That all Ships and other Veſſels, as well thoſe belonging to the ſaid King of <hi>Great Britain,</hi> or to any of His Majeſties Subjects, as alſo thoſe belonging to the Kingdom or People of <hi>Tripoli,</hi> ſhall freely paſs the Seas, and Traffique where they pleaſe, with<g ref="char:EOLhyphen"/>out any ſearch, hindrance, or moleſtation from each other; and that all perſons or Paſſengers of what Countrey ſoever, and all moneys, goods, merchandiſes and movea<g ref="char:EOLhyphen"/>bles, to whatſoever people or Nation be<g ref="char:EOLhyphen"/>longing, being on board of any the ſaid Ships or Veſſels, ſhall be wholly free, and ſhall not be ſtopped, taken or plundered, nor receive any harm or damage whatſoever from either party.</p>
+            <pb n="6" facs="tcp:40550:4"/>
+            <p n="4">IV. That the <hi>Tripoli</hi> Ships of Warr, or other Veſſels thereunto belonging, meeting with any Merchant Ships or other Veſſels of the King of <hi>Great Britains</hi> Subjects, not being in any of the Seas appertaining to His Majeſties Dominions, may ſend on board one ſingle boat with but two Sitters, beſides the ordinary Crew of Rowers, and no more but the two Sitters to enter any of the ſaid Merchant Ships or any other Veſſels, with<g ref="char:EOLhyphen"/>out expreſs leave from the Commander of every ſuch Ship or Veſſel, and then upon producing unto them a Paſs under the hand and ſeal of the Lord High Admiral of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the ſaid Boat ſhall preſently depart, and the Merchant Ship or Ships, Veſſel or Veſ<g ref="char:EOLhyphen"/>ſels ſhall proceed freely on her or their Voyage: and although the Commander or Commanders of the ſaid Merchant Ship or Ships, Veſſel or Veſſels produce no Paſs from the Lord High Admiral of <hi>England,</hi> yet if the Major part of the ſaid Ships or
+<pb n="7" facs="tcp:40550:4" rendition="simple:additions"/>
+Veſſels Company be Subjects to the ſaid King of <hi>Great Britain,</hi> the ſaid Boat ſhall preſent<g ref="char:EOLhyphen"/>ly depart, and the Merchant Ship or Ships, Veſſel or Veſſels ſhall proceed freely on her or their Voyage: and if any of the ſaid Ships, of War, or other Veſſels of His ſaid Majeſty meeting with any Ship or Ships, Veſſel or Veſſels belonging to <hi>Tripoli,</hi> if the Comman<g ref="char:EOLhyphen"/>der or Commanders of any ſuch Ship or Ships Veſſel or Veſſels, ſhall produce a Paſs firm<g ref="char:EOLhyphen"/>ed by the Chief Governours of <hi>Tripoli,</hi> and a Certificate from the <hi>Engliſh</hi> Conſul living there; or if they have no ſuch Paſs or Cer<g ref="char:EOLhyphen"/>tificate, yet if the Major part of their Ships Company or Companies, be Turks, Moors, or Slaves belonging to <hi>Tripoli,</hi> then the ſaid <hi>Tripoli</hi> Ship or Ships, Veſſel or Veſſels ſhall proceed freely.</p>
+            <p n="5">V. That no Commander or other perſon of any Ship or Veſſel of <hi>Tripoli</hi> ſhall take out of any Ship or Veſſel of His ſaid Majeſties Subjects, any perſon or perſons whatſoever,
+<pb n="8" facs="tcp:40550:5"/>
+to carry them any where to be examined, or upon any other pretence, nor ſhall uſe any torture or violence to any perſon of what Nation or Quality ſoever, being on board any Ship or Veſſel of His Majeſties Subjects, upon any pretence whatſoever.</p>
+            <p n="6">VI. That no Shipwrack belonging to the ſaid King of <hi>Great Britain,</hi> or to any of His Ma<g ref="char:EOLhyphen"/>jeſties Subjects, upon any part of the Coaſt belonging unto <hi>Tripoli,</hi> ſhall be made or be<g ref="char:EOLhyphen"/>come Prize; and that neither the goods thereof ſhall be ſeiſed, nor the men made Slaves, but that all the Subjects of <hi>Tripoli</hi> ſhall do their beſt endeavours to ſave the ſaid Men and their goods.</p>
+            <p n="7">VII. That no Ship or any other Veſſel of <hi>Tripoli</hi> ſhall have permiſsion, to be delivered up, or to go to any other place in enmity with the ſaid King of <hi>Great Britain,</hi> to be made uſe
+<pb n="9" facs="tcp:40550:5" rendition="simple:additions"/>
+of as Corſairs or Sea Rovers againſt His ſaid Majeſties Subjects.</p>
+            <p n="8">VIII. That none of the Ships or other ſmaller Veſſels of <hi>Tripoli</hi> ſhall remain cruiſing near His ſaid Majeſties City and Garriſon of <hi>Tan<g ref="char:EOLhyphen"/>gier,</hi> or in ſight of it: nor any other way di<g ref="char:EOLhyphen"/>ſturb the Peace and Commerce of that place.</p>
+            <p n="9">IX. That if any Ship or Veſſel of <hi>Tunis, Algiers, Tetuan</hi> or <hi>Sally,</hi> or any other place being in Warr with the ſaid King of <hi>Great Britain,</hi> bring any Ships, Veſſels, Men or Goods be<g ref="char:EOLhyphen"/>longing to any of His ſaid Majeſties Subjects to <hi>Tripoli,</hi> or to any Port or place in that King<g ref="char:EOLhyphen"/>dom, the Governor there ſhall not permit, them to be ſold within the Territories of <hi>Tripoli.</hi>
+            </p>
+            <p n="10">X. That if any of the Ships of Warr of the ſaid King of <hi>Great Britain</hi> do come to <hi>Tripoli,</hi> or
+<pb n="10" facs="tcp:40550:6"/>
+to any other Port or place of that Kingdom with any Prize, they may freely ſell it, or otherwiſe diſpoſe of it at their own pleaſure, without being moleſted by any; And that His Majeſties ſaid Ships of War ſhall not be obliged to pay Cuſtoms in any ſort; And that if they ſhall want proviſions, victuals, or any other things, they may freely buy them at the Rates in the Market.</p>
+            <p n="11">XI. That when any of His ſaid Majeſties Ships of War ſhall appear before <hi>Tripoli,</hi> upon no<g ref="char:EOLhyphen"/>tice thereof given to the <hi>Engliſh</hi> Conſul, or by the Commander of the ſaid Ships to the chief Governors of <hi>Tripoli,</hi> publick Procla<g ref="char:EOLhyphen"/>mation ſhall be immediately made to ſecure the Chriſtian Captives; and if after that any Chriſtians whatſoever make their eſcape on board any of the ſaid Ships of War, they ſhall not be required back again, nor ſhall the ſaid Conſul, or Commander, or any other His ſaid Majeſties Subjects be obliged to pay any thing for the ſaid Chriſtians.</p>
+            <pb n="11" facs="tcp:40550:6" rendition="simple:additions"/>
+            <p n="12">XII. That if any Subjects of the ſaid King of <hi>Great Britain</hi> happen to die in <hi>Tripoli,</hi> or its Territories, his goods or moneys ſhall not be ſeiſed by the Governors or any Miniſter of <hi>Tripoli,</hi> but ſhall all remain with the <hi>Engliſh</hi> Conſul.</p>
+            <p n="13">XIII. That neither the <hi>Engliſh</hi> Conſul nor any other Subject of the ſaid King of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> ſhall be bound to pay the debts of any other of His Majeſties Subjects; except that they become Surety for the ſame by a pub<g ref="char:EOLhyphen"/>lick Act.</p>
+            <p n="14">XIV. That the Subjects of His ſaid Majeſty in <hi>Tripoli</hi> or its Territories, in matter of contro<g ref="char:EOLhyphen"/>verſie, ſhall be liable to no other Juriſdiction but that of the Dey or Divan, except they happen to be at difference between them<g ref="char:EOLhyphen"/>ſelves; in which caſe they ſhall be liable to no other determination, but that of the Conſul onely.</p>
+            <pb n="12" facs="tcp:40550:7"/>
+            <p n="15">XV. That in caſe any Subject of His Majeſty being in any part of the Kingdom of <hi>Tripoli</hi> happen to ſtrike, wound or kill a Turk or a Moor, if he be taken he is to be puniſhed in the ſame manner, and with no greater ſe<g ref="char:EOLhyphen"/>verity then a Turk ought to be, being guilty of the ſame offence; but if he eſcape, neither the ſaid <hi>Engliſh</hi> Conſul, nor any other of His ſaid Majeſties Subjects ſhall be in any ſort queſtioned or troubled therefore.</p>
+            <p n="16">XVI. That the <hi>Engliſh</hi> Conſul now or at any time hereafter living in <hi>Tripoli,</hi> ſhall be there at all times with entire freedom and ſafety of his Perſon and Eſtate; and ſhall be permitted to chooſe his own Druggerman and Broker, and freely to go on board any Ship in the Road, as often and when he pleaſes: And to have the liberty of the Country; and that he ſhall be allowed a place to pray in; and that no man ſhall do him any injury in word or deed.</p>
+            <pb n="13" facs="tcp:40550:7" rendition="simple:additions"/>
+            <p n="17">XVII. That not onely during the continuance of this Peace and Friendſhip, but likewiſe if any breach or War happen to be hereafter be<g ref="char:EOLhyphen"/>tween the ſaid King of <hi>Great Britain</hi> and the City and Kingdom of <hi>Tripoli,</hi> the ſaid Con<g ref="char:EOLhyphen"/>ſul, and all other His ſaid Majeſties Subjects inhabiting in the Kingdom of <hi>Tripoli,</hi> ſhall al<g ref="char:EOLhyphen"/>ways, and at all times both of Peace and War have full and abſolute liberty to depart, and go to their own or any other Country upon any Ship or Veſſel of what Nation ſoever they ſhall think fit, and to carry with them all their Eſtates, Goods, Families and Servants, al<g ref="char:EOLhyphen"/>though born in the Countrey, without any interruption or hindrance.</p>
+            <p n="18">XVIII. That no Subject of His ſaid Majeſty, being a Paſſenger from, or unto any Port, ſhall be any way moleſted or medled with, although he be on board any Ship or Veſſel in enmity with <hi>Tripoli.</hi>
+            </p>
+            <pb n="14" facs="tcp:40550:8"/>
+            <p n="19">XIX. That whereas a War hath lately happened between the moſt Serene King of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> and the moſt Illuſtrious Lords, <hi>Halil</hi> Baſſa <hi>Ibraim</hi> Dey, Aga, Divan and Go<g ref="char:EOLhyphen"/>vernours of the Noble City and Kingdom of <hi>Tripoli</hi> in <hi>Barbary,</hi> by reaſon of the injuries done to the King of <hi>Great Britain</hi> and His Subjects, by the Government and People of <hi>Tripoli,</hi> contrary to the Articles of Peace, We <hi>Halil</hi> Baſſa, <hi>Ibraim</hi> Dey, Aga, Divan and Governours of the Noble City and Kingdom of <hi>Tripoli</hi> in <hi>Barbary,</hi> do acknow<g ref="char:EOLhyphen"/>ledge the injuries done, and that the breach of the Peace between His moſt Excellent Majeſty the King of <hi>Great Britain</hi> and us of <hi>Tripoli,</hi> was committed by our Subjects, for which ſome are Baniſhed, and ſome fled from our Juſtice; and for further ſatisfacti<g ref="char:EOLhyphen"/>on to His moſt Excellent Majeſty, for the breach of Articles, we are ſory for the ſame, and do by theſe engage to ſet at Liberty and deliver unto the Right Hon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urable Sir <hi>John Narbrough</hi> Knight, Admiral of His Majeſties
+<pb n="15" facs="tcp:40550:8" rendition="simple:additions"/>
+Fleet in the <hi>Mediterranean</hi> Seas, all <hi>Engliſh</hi> Captives reſiding in the City and Kingdom of <hi>Tripoli</hi> and Dominions thereunto belong<g ref="char:EOLhyphen"/>ing, without paying any ranſom for them: And likewiſe by ſetting at liberty and deli<g ref="char:EOLhyphen"/>vering unto the ſaid S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>John Narbrough</hi> Knight, all other perſons taken under <hi>Engliſh</hi> Colours, without paying any ranſom for them, and by paying Eighty Thouſand Dollars in moneys, goods and Slaves to the aforeſaid Sir <hi>John Narbrough</hi> Knight. And moreover, We do engage our ſelves and Suc<g ref="char:EOLhyphen"/>ceſſors, That if any injuries for the future be done contrary to theſe Articles by the Go<g ref="char:EOLhyphen"/>vernment and People of <hi>Tripoli,</hi> to the King of <hi>Great Britain</hi> and His Subjects; if upon demand of ſatisfaction from the Govern<g ref="char:EOLhyphen"/>ment and People of <hi>Tripoli,</hi> We or they re<g ref="char:EOLhyphen"/>fuſe or deny to give ſatisfaction therefore, ſo that a War be occaſioned thereby between the King of <hi>Great Britain</hi> and the Government and People of <hi>Tripoli,</hi> We do engage Our ſelves and Succeſſors to make reſtitution for the injuries done; and likewiſe to make ſatisfaction to the King of <hi>Great Britain</hi> for the full charge and damage of that War.</p>
+            <pb n="16" facs="tcp:40550:9"/>
+            <p n="20">XX. That no Subject of the King of <hi>Great Britain, &amp;c.</hi> ſhall be permitted to turn Turk or Moor in the City and Kingdom of <hi>Tripoli,</hi> being induced thereunto by any ſurprizal whatſoever, unleſs he voluntari<g ref="char:EOLhyphen"/>ly appear before the Dey or Governour with the <hi>Engliſh</hi> Conſuls Druggerman three times in twenty four hours ſpace, and every time declare his reſolution to turn Turk or Moor.</p>
+            <p n="21">XXI. That at all times when any Ship of War of the King of <hi>Great Britain, &amp;c.</hi> carrying His ſaid Majeſties Flagg at the Main Top<g ref="char:EOLhyphen"/>maſt head, appear before the ſaid City of <hi>Tripoli,</hi> and come to Anchor in the Road; that immediately after notice thereof given by His ſaid Majeſties Conſul, or Officer from the Ship, unto the Dey and Govern<g ref="char:EOLhyphen"/>ment of <hi>Tripoli,</hi> they ſhall in honour to His Majeſty cauſe a ſalute of One and Twenty
+<pb n="17" facs="tcp:40550:9" rendition="simple:additions"/>
+Cannon to be ſhot off from the Caſtles and Forts of the City, and that the ſaid Ship ſhall return an anſwer by ſhooting off the ſame number of Cannon.</p>
+            <p n="22">XXII. That preſently after the ſigning and ſeal<g ref="char:EOLhyphen"/>ing of theſe Articles by us <hi>Halil</hi> Baſſa, <hi>Ibraim</hi> Dey, Aga, Divan and Governors of the Noble City and Kingdom of <hi>Tripoli,</hi> all injuries and damages ſuſtained on either part ſhall be quite taken away and f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgot<g ref="char:EOLhyphen"/>ten, and this Peace ſhall be in full force and vertue, and continue for ever: And for all depredations and damages that ſhall be here<g ref="char:EOLhyphen"/>after committed or done by either ſide, be<g ref="char:EOLhyphen"/>fore notice can be given of this Peace, full ſatisfaction ſhall be immediately made, and whatſoever remains in kind ſhall be inſtantly reſtored.</p>
+            <p n="23">XXIII. That whenſoever it ſhall happen hereaf<g ref="char:EOLhyphen"/>ter that any thing is done or committed by
+<pb n="18" facs="tcp:40550:10"/>
+the Ships or Subjects of either ſide, contrary to any of theſe Articles, ſatisfaction being de<g ref="char:EOLhyphen"/>manded therefore, ſhall be made to the full, and without any manner of delay; and that it ſhall not be lawful to break this Peace, un<g ref="char:EOLhyphen"/>til ſuch ſatisfaction be denied: And our Faith ſhall be our Faith, and our Word our Word; and whoſoever ſhall be the cauſe of the breaking of this Peace, ſhall aſſuredly be puniſhed with preſent death.</p>
+            <closer>
+               <dateline>
+                  <hi>Confirmed and Sealed in the preſence of Al<g ref="char:EOLhyphen"/>mighty God</hi> 
+                  <date>
+                     <hi>the</hi> 5<hi rend="sup">th</hi> 
+                     <hi>day of</hi> March <hi>Old Style, and the Year of Our Lord</hi> Jeſus Chriſt 1675/6, <hi>being the last day of the Moon</hi> Zelhedga, <hi>and the Year of the</hi> Hegira 1086.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>(L. S.)</hi> Baſhaws Seal.</item>
+                     <item>
+                        <hi>(L. S.)</hi> Deys Seal.</item>
+                     <item>
+                        <hi>(L. S.)</hi> Aga's Seal.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40550:10" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
